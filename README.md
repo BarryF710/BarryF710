@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
   <img width="12" />
-  <img src="https://github.com/BarryF710/McMaster-Assets/blob/main/ChemEng4G03Stuff/gams01.png" height="40" alt="gams logo"  />
+  <img src="https://github.com/BarryF710/BarryF710.github.io/blob/main/img/gams01.png" height="40" alt="gams logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
@@ -34,6 +34,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://github.com/BarryF710/BarryF710.github.io/blob/main/img/fire.png" height="40" alt="mojo logo"  />
 </div>
 
 ###
