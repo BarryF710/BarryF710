@@ -36,6 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://github.com/BarryF710/BarryF710.github.io/blob/main/img/fire.png" height="40" alt="mojo logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/r@0.0.0/r.svg" height="40" alt="r logo"  />
 </div>
 
 ###
