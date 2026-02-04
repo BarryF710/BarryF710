@@ -54,10 +54,10 @@
 
 <div style="display: flex; align-items: center; gap: 4px;">
   <a href="https://www.linkedin.com/in/barryatwork/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="linkedin logo" style="display: block;" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="linkedin logo" />
   </a>
   <a href="https://barryf710.github.io/" target="_blank">
-    <img src="https://github.com/BarryF710/BarryF710.github.io/blob/main/img/b.svg?raw=true" width="52" height="40" alt="website logo" style="display: block;" />
+    <img src="https://github.com/BarryF710/BarryF710.github.io/blob/main/img/b.svg?raw=true" width="52" alt="website logo" />
   </a>
 </div>
 
