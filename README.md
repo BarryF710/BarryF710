@@ -52,7 +52,7 @@
 
 ###
 
-<div style="display: flex; align-items: center; gap: 4px;">
+<div>
   <a href="https://www.linkedin.com/in/barryatwork/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="linkedin logo" />
   </a>
