@@ -57,7 +57,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://barryf710.github.io/" target="_blank">
-    <img src="https://github.com/BarryF710/BarryF710.github.io/blob/main/img/b.svg" width="52" height="40" alt="website logo"  />
+    <img src="https://github.com/BarryF710/BarryF710.github.io/blob/main/img/b.svg" style="background: transparent;" width="52" height="40" alt="website logo"  />
   </a>
 </div>
 
